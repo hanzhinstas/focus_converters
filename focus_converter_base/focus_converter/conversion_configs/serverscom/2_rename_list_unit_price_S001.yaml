@@ -1,0 +1,4 @@
+plan_name: Rename list_unit_price to ListUnitPrice
+conversion_type: rename_column
+column: list_unit_price
+focus_column: ListUnitPrice

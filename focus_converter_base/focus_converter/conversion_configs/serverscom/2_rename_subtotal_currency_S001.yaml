@@ -1,0 +1,4 @@
+plan_name: Rename subtotal_currency to BillingCurrency
+conversion_type: rename_column
+column: subtotal_currency
+focus_column: BillingCurrency

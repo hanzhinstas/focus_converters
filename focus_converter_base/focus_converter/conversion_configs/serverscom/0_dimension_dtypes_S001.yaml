@@ -1,0 +1,14 @@
+plan_name: adds dtypes to the columns required for the conversion
+conversion_type: set_column_dtypes
+column: PlaceHolder
+focus_column: PlaceHolder
+conversion_args:
+    dtype_args:
+        -   column_name: billing_account_id
+            dtype: string
+        -   column_name: quantity
+            dtype: float
+        -   column_name: list_unit_price
+            dtype: float
+        -   column_name: service_id
+            dtype: string

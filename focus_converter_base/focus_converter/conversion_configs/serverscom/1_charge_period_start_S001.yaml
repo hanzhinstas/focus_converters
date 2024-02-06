@@ -1,0 +1,5 @@
+plan_name: Set ChargePeriodStart using period_start
+conversion_type: parse_datetime
+column: period_start
+focus_column: ChargePeriodStart
+conversion_args: '%d.%m.%y'

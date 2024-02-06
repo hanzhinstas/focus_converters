@@ -1,0 +1,4 @@
+plan_name: Rename service_id to SkuPriceId
+conversion_type: rename_column
+column: service_id
+focus_column: SkuPriceId

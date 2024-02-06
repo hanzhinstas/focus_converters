@@ -1,0 +1,4 @@
+plan_name: Rename location_name to Region
+conversion_type: rename_column
+column: location_name
+focus_column: Region

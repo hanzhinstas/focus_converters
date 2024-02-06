@@ -1,0 +1,5 @@
+plan_name: Set BillingPeriodEnd end using period_end
+column: billing_end
+focus_column: BillingPeriodEnd
+conversion_type: parse_datetime
+conversion_args: '%d.%m.%y'

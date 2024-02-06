@@ -1,0 +1,5 @@
+plan_name: Set ChargePeriodEnd end using period_end
+conversion_type: parse_datetime
+column: period_end
+focus_column: ChargePeriodEnd
+conversion_args: '%d.%m.%y'

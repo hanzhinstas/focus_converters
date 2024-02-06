@@ -1,0 +1,10 @@
+plan_name: get ChargeFrequency
+conversion_type: map_values
+column: service_type
+conversion_args:
+    value_list:
+        - key: Traffic overuse
+          value: 'Usage-Based'
+    default_value: 'Recurring'
+    apply_default_if_null: true
+focus_column: ChargeFrequency

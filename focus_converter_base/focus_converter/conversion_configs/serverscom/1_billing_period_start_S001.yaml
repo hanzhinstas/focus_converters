@@ -1,0 +1,5 @@
+plan_name: Set BillingPeriodStart using period_start
+column: billing_start
+focus_column: BillingPeriodStart
+conversion_type: parse_datetime
+conversion_args: '%d.%m.%y'

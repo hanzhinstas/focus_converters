@@ -1,0 +1,4 @@
+plan_name: Get ResourceName
+conversion_type: rename_column
+column: title
+focus_column: ResourceName

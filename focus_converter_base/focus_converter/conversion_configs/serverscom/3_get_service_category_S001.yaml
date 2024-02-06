@@ -1,0 +1,12 @@
+plan_name: get ServiceCategory
+conversion_type: map_values
+column: service_type
+conversion_args:
+    value_list:
+        - key: 'L2 segment'
+          value: 'Networking'
+        - key: 'L2 segment host native'
+          value: 'Networking'
+    default_value: 'Compute'
+    apply_default_if_null: true
+focus_column: ServiceCategory
