@@ -1,4 +1,4 @@
-plan_name: get ChargeFrequency
+plan_name: Map service_type to ChargeFrequency
 conversion_type: map_values
 column: service_type
 conversion_args:

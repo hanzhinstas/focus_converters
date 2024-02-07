@@ -1,4 +1,4 @@
-plan_name: Get ChargeDescription
+plan_name: Rename description to ChargeDescription
 conversion_type: rename_column
 column: description
 focus_column: ChargeDescription

@@ -1,4 +1,4 @@
-plan_name: Set ChargePeriodStart using period_start
+plan_name: Rename period_start to ChargePeriodStart
 conversion_type: parse_datetime
 column: period_start
 focus_column: ChargePeriodStart

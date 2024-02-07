@@ -1,4 +1,4 @@
-plan_name: Get AvailabilityZone
+plan_name: Rename location_name to AvailabilityZone
 conversion_type: rename_column
 column: location_name
 focus_column: AvailabilityZone

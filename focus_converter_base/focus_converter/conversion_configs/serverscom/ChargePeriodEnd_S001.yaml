@@ -1,4 +1,4 @@
-plan_name: Set ChargePeriodEnd end using period_end
+plan_name: Rename period_end to ChargePeriodEnd
 conversion_type: parse_datetime
 column: period_end
 focus_column: ChargePeriodEnd

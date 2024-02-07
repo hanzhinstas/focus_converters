@@ -1,4 +1,4 @@
-plan_name: Set BillingPeriodStart using period_start
+plan_name: Rename billing_start to BillingPeriodStart
 column: billing_start
 focus_column: BillingPeriodStart
 conversion_type: parse_datetime

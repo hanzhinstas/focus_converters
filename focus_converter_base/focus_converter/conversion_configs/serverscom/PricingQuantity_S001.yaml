@@ -1,4 +1,4 @@
-plan_name: Rename quantity to UsageQuantity
+plan_name: Rename quantity to PricingQuantity
 conversion_type: rename_column
 column: quantity
 focus_column: PricingQuantity

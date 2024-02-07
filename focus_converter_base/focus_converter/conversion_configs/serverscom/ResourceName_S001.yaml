@@ -1,4 +1,4 @@
-plan_name: Get ResourceName
+plan_name: Rename title to ResourceName
 conversion_type: rename_column
 column: title
 focus_column: ResourceName

@@ -1,4 +1,4 @@
-plan_name: Rename service_id to ResourceId
+plan_name: Rename service_type to ServiceName
 conversion_type: rename_column
 column: service_type
 focus_column: ServiceName

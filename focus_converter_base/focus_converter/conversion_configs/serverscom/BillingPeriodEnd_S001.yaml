@@ -1,4 +1,4 @@
-plan_name: Set BillingPeriodEnd end using period_end
+plan_name: Rename billing_end to BillingPeriodEnd
 column: billing_end
 focus_column: BillingPeriodEnd
 conversion_type: parse_datetime

@@ -1,4 +1,4 @@
-plan_name: Rename account_name to BillingAccountName
+plan_name: Rename billing_account_name to BillingAccountName
 conversion_type: rename_column
 column: billing_account_name
 focus_column: BillingAccountName
